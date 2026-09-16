@@ -1,16 +1,52 @@
-## Hi there 👋
+<h1 align="center">Юра · your0kk</h1>
 
-<!--
-**your0kk/your0kk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Учусь веб-разработке через практику: собираю интерфейсы, разбираюсь в логике<br>
+  и постепенно превращаю учебные задачи в цельные проекты.
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript">
+  <img src="https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/React_Router-111827?style=flat-square&logo=reactrouter&logoColor=CA4245" alt="React Router">
+  <img src="https://img.shields.io/badge/Vite-111827?style=flat-square&logo=vite&logoColor=646CFF" alt="Vite">
+  <img src="https://img.shields.io/badge/Tailwind-111827?style=flat-square&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS">
+  <img src="https://img.shields.io/badge/Firebase-111827?style=flat-square&logo=firebase&logoColor=FFCA28" alt="Firebase">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Немного обо мне
+
+Я Юра. Мне нравится разбираться, как всё складывается в один работающий продукт: маршруты, формы, состояние, данные и детали интерфейса.
+
+Сейчас мой фокус — **React, TypeScript и современная веб-разработка**. Здесь сохраняю прогресс без лишнего шума: каждый следующий репозиторий должен быть чуть лучше предыдущего.
+
+### Проекты
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/your0kk/web49-50">Restaurant App · 49–50</a></h3>
+      <p>Приложение ресторана с авторизацией, оформлением заказа и историей заказов.</p>
+      <sub>React 19 · React Router 7 · TypeScript · Firebase · React Hook Form</sub>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/your0kk/web45-47">Restaurant App · 45–47</a></h3>
+      <p>Многостраничный интерфейс ресторана: меню, корзина и оформление заказа.</p>
+      <sub>React 19 · React Router 7 · TypeScript · Tailwind CSS · Vite</sub>
+    </td>
+  </tr>
+</table>
+
+### Активность
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/your0kk/your0kk/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/your0kk/your0kk/output/github-contribution-grid-snake.svg">
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/your0kk/your0kk/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
+<p align="center"><sub>Профиль растёт вместе с проектами.</sub></p>
