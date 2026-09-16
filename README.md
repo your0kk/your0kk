@@ -26,18 +26,18 @@
   <tr>
     <td width="50%">
       <h3><a href="https://github.com/your0kk/web49-50">Restaurant App · 49–50</a></h3>
-      <p>Приложение ресторана с авторизацией, оформлением заказа и историей заказов.</p>
-      <sub>React 19 · React Router 7 · TypeScript · Firebase · React Hook Form</sub>
+      <p>приложение ресторана с авторизацией, оформлением заказа и историей заказов</p>
+      <sub>React 19  React Router 7  TypeScript  Firebase  React Hook Form</sub>
     </td>
     <td width="50%">
       <h3><a href="https://github.com/your0kk/web45-47">Restaurant App · 45–47</a></h3>
-      <p>Многостраничный интерфейс ресторана: меню, корзина и оформление заказа.</p>
-      <sub>React 19 · React Router 7 · TypeScript · Tailwind CSS · Vite</sub>
+      <p>многостраничный интерфейс ресторана: меню, корзина и оформление заказа.</p>
+      <sub></sub>
     </td>
   </tr>
 </table>
 
-### Активность
+### активность
 
 <p align="center">
   <picture>
@@ -47,4 +47,4 @@
   </picture>
 </p>
 
-<p align="center"><sub>Профиль растёт вместе с проектами.</sub></p>
+<p align="center"><sub>профиль растёт вместе с проектами</sub></p>
